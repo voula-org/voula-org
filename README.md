@@ -1,6 +1,6 @@
 # Voula Software Solutions
 
-Welcome to **Voula Software Solutions**' GitHub! We are a passionate team dedicated to delivering high-quality, custom software development and web development services. Our expertise spans across a wide range of technologies and solutions to help businesses grow and achieve their digital goals.
+Welcome to **Voula Software Solutions**™ GitHub! We are a passionate team dedicated to delivering high-quality, custom software development and web development services. Our expertise spans across a wide range of technologies and solutions to help businesses grow and achieve their digital goals.
 
 ## What We Do
 
@@ -16,7 +16,7 @@ At Voula Software Solutions, we specialize in providing end-to-end software solu
 Our projects utilize the following technologies:
 
 ### Front-End Development
-- **HTML**, **CSS**, **JavaScript**
+- **HTML**, **CSS**, **Bootstrap Framework**, **JavaScript**
 
 ### Back-End Development
 - **PHP**, **Java**
